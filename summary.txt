@@ -1,0 +1,38 @@
+Mathematically for [-5, 5] the integral value is -115
+
+Integral of function f for points  -5.0 5.0
+After 100 simulations
+and 300000 points drawn
+Equals to  -115.09512287712818
+
+***********************
+************************
+************************
+
+Integral of function f for points  0.0 5.0
+After 100 simulations
+and 100000 points drawn
+Equals to  159.6752565
+
+Mathematically for [0, 5] the integral value is 159.6875
+
+
+************************
+************************
+************************
+
+Integral of function f for points  -5.0 -0.39433918088197945
+After 100 simulations
+and 100000 points drawn
+Equals to  -274.77037937712817
+
+
+Mathematically for [-5, -0.39] the integral value is −274.90
+
+
+************************
+************************
+************************
+
+Mathematically for [-0.39, 0.0] the integral value is 0.22
+
