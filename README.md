@@ -1,1 +1,1 @@
-# Random-numbers-generation-and-simulation
+# Monte Carlo integration for polynomial functions
